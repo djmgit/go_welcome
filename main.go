@@ -5,5 +5,5 @@ import (
 )
 
 func Welcome() {
-	fmt.Println("Welome to version 0.0.1")
+	fmt.Println("Welome to version 1.0.1")
 }
